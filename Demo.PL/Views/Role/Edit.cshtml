@@ -1,0 +1,26 @@
+﻿@model RoleViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="container">
+
+    <h1> Edit Department </h1>
+
+    <br />
+
+
+
+    <form asp-action="Edit">
+        <partial name="RolePartialView/_EditCreateRole" model="Model" />
+
+        @* <button asp-action="AddOrRemoveUser" asp-route-RoleId="@Model.Id" asp-controller="Role" class="ResetPassword btn">Add Or Remove User</button> *@
+        <a asp-action="AddOrRemoveUsers" asp-route-roleId="@Model.Id" class="my-3 btn btn-success"> Add Or Remove Users  </a>
+
+        <input type="submit" value="Save" class="btn logOutBtn" />
+        <a asp-action="Index" class="btn btn-dark">Back To List</a>
+
+    </form>
+
+
+</div>

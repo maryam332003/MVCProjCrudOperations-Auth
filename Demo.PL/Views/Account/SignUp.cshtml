@@ -1,0 +1,59 @@
+﻿@model SignUpViewModel
+@{
+    ViewData["Title"] = "SignUp";
+    Layout = "_Auth";
+}
+
+<div class="signUp-container d-flex  justify-content-start w-75 m-auto py-3" >
+    <div class="signup-photo mt-5 pt-5">
+        <img src="~/Files/Images/undraw_file_sync_ot38.svg"class="w-100" />
+
+    </div>
+    <div class="signUp-user-info d-flex justify-content-center align-items-center flex-column ">
+        <div class="form d-flex flex-column">
+            <h2 class="my-2">Sign Up</h2>
+
+            <form class="form d-flex flex-column" method="post" asp-action="SignUp">
+                <div class="input-icons my-2">
+                    <i class="fa-solid fa-user-tie"></i>
+                    <input asp-for="UserName" class="input-field pt-1" type="text" placeholder="User Name" required="" />
+                </div>        
+                <div class="input-icons my-2">
+                    <i class="fa-regular fa-user"></i>
+                    <input asp-for="FirstName" class="input-field pt-1" type="text" placeholder="First Name" required="" />
+                </div>  
+                <div class="input-icons my-2">
+                    <i class="fa-solid fa-user"></i>
+                    <input asp-for="LastName" class="input-field pt-1" type="text" placeholder="Last Name" required="" />
+                </div>  
+                <div class="input-icons my-2">
+                    <i class="fa-solid fa-envelope"></i>
+                    <input asp-for="Email" class="input-field pt-1" type="email" placeholder="Email" required="" />
+                </div>
+                <div class="input-icons my-2">
+                    <i class="fa-solid fa-lock"></i>
+                    <input asp-for="Password" class="input-field pt-1" type="password" placeholder="Password" required="" />
+                </div>
+                <div class="input-icons my-2">
+                    <i class="fa-solid fa-unlock"></i>
+                    <input asp-for="ConfirmPassword" class="input-field pt-1" type="password" placeholder="Confirm Password" required="" />
+                </div>
+                <label class="my-3">
+                    <input asp-for="IsAgree" type="checkbox" class="checkbox" required="">
+                    <span>I Agree To The Terms & Conditions</span>
+                </label>
+                <div asp-validation-summary="All" class="text-danger" style="text-decoration:none;list-style:none;">
+                </div>
+                <button class="px-5 py-2 rounded-2 my-3 signUpBtn" id="signUpBtn" type="submit" value="SIGNUP">
+                    Sign Up
+                </button>
+                <p>Don't Have An Account ?<a asp-action="SignIn" class="RegisterNow" style="font-size:19px">Register Now</a></p>
+        </form>
+    </div>
+    </div>
+</div>
+
+@section ValidationSection {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "CheckYourInbox";
+    Layout = "_Auth";
+}
+
+<div>
+    <div class="signIn-container  my-4 justify-content-end mb-4 w-50 m-auto py-5 px-5">
+        <h3 class="d-flex align-items-center justify-content-center mb-3">Check Your Inbox</h3>
+        <div>
+            <p>Password Reset Link Has Been Send To Your Email,Please Check Your Inbox</p>
+        </div>
+        <div>
+            <p>
+                <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl">Your Inbox</a>
+            </p>
+        </div>
+
+    </div>
+</div>
+
+@section ValidationSection{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+

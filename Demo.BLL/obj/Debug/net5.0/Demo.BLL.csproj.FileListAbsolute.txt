@@ -1,0 +1,120 @@
+F:\Demo MVC G04\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\Demo MVC G04\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\Demo MVC G04\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\Demo MVC G04\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\Demo MVC G04\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\Demo MVC G04\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\ht\Downloads\MaryamProj\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll

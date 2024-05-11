@@ -1,0 +1,148 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+* {
+    font-family: "Reddit Mono", monospace;
+}
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+
+
+* {
+    font-family: 'Crimson Text', serif;
+}
+
+.signUp-photo {
+    width: 40%;
+}
+
+h1,
+h2,
+h3,
+button {
+    font-weight: 700;
+
+}
+a, a:hover {
+    text-decoration: none;
+
+}
+p, h1, h2, h3, h4, h5, h6, h7, tr, th, td, button, input, a, label,option,select{
+    font-family: "Reddit Mono", monospace;
+    color: black;
+}
+
+a{
+    color:black;
+}
+.crud-container,
+.crud-table {
+    width: 80%;
+}
+
+nav {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+#logInBtn,
+.btn-update,
+.ForgetPass,
+.ResetPassword {
+    background-color: #6C63FF !important;
+    color: white !important;
+    color: #6C63FF;
+    border: #6C63FF 2px solid;
+}
+
+    #logInBtn:hover,
+    .btn-update:hover,
+    .ForgetPass:hover,
+    .ResetPassword:hover {
+        background-color: white !important;
+        color: #6C63FF !important;
+        border: #6C63FF 2px solid !important;
+        border: none;
+    }
+
+.signUpBtn,
+.btn-add,
+.logOutBtn{
+    background-color: #38D39F;
+    color: white;
+    border: #38D39F 2px solid !important;
+    border: none;
+}
+
+    .signUpBtn:hover,
+    .btn-add:hover,
+    .logOutBtn:hover{
+        color: #38D39F;
+        background-color: white;
+    }

@@ -1,0 +1,24 @@
+﻿
+@model EmployeeViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Employee </h1>
+
+
+<br />
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+
+    <partial name="EmployeePartialViews/_CreateEditPartiaView" model="@Model" />
+
+    <input type="hidden" asp-for="ImageName" />
+
+
+  <input type="submit" value="Save" class="btn btn-primary" />
+  
+  <a asp-controller="Employee" asp-action="Index" class="btn btn-light">Back To List</a>
+
+</form>

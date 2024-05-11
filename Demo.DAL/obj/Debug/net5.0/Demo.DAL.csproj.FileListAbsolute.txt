@@ -1,0 +1,120 @@
+F:\Demo MVC G04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+F:\Demo MVC G04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+F:\Demo MVC G04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+F:\Demo MVC G04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+F:\Demo MVC G04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+F:\Demo MVC G04\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+F:\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 03   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\SoftLaptop\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\SMARTzone\Desktop\atef eisa -   Ass 04   (   MVC  ) -   C# -  mon&thur - 2 pm - offline -\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\SMARTzone\Desktop\MaryamProj S04\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\SMARTzone\Desktop\MaryamProj\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\ht\Downloads\MaryamProj\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll

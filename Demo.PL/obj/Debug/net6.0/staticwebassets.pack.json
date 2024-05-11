@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\0ef0a06c-83c9-46ee-89a9-3d4ee3ebabe5christopher-campbell-rDEOVtE7vOs-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\0ef0a06c-83c9-46ee-89a9-3d4ee3ebabe5christopher-campbell-rDEOVtE7vOs-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\1a768e0b-b47a-419a-b3ea-9ea232319d8caiony-haust-3TLl_97HNJo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\1a768e0b-b47a-419a-b3ea-9ea232319d8caiony-haust-3TLl_97HNJo-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\90837cc3-bc8a-49d9-9dea-073e2ab6114faiony-haust-3TLl_97HNJo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\90837cc3-bc8a-49d9-9dea-073e2ab6114faiony-haust-3TLl_97HNJo-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\9e156d4d-cca0-43c5-8903-ede07c9ec3f6aiony-haust-3TLl_97HNJo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\9e156d4d-cca0-43c5-8903-ede07c9ec3f6aiony-haust-3TLl_97HNJo-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\Screenshot 2024-03-30 210018.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Screenshot 2024-03-30 210018.png"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\a224a899-483a-4dcb-8a3c-b99eb5ee7ddechristopher-campbell-rDEOVtE7vOs-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\a224a899-483a-4dcb-8a3c-b99eb5ee7ddechristopher-campbell-rDEOVtE7vOs-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\integrity.ico",
+      "PackagePath": "staticwebassets\\Files\\Images\\integrity.ico"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\key.ico",
+      "PackagePath": "staticwebassets\\Files\\Images\\key.ico"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\signup.ico",
+      "PackagePath": "staticwebassets\\Files\\Images\\signup.ico"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\undraw_file_sync_ot38.svg",
+      "PackagePath": "staticwebassets\\Files\\Images\\undraw_file_sync_ot38.svg"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\undraw_remotely_2j6y.svg",
+      "PackagePath": "staticwebassets\\Files\\Images\\undraw_remotely_2j6y.svg"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\valid.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\valid.png"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\Files\\Images\\—Pngtree—network code application development_6245286.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\—Pngtree—network code application development_6245286.png"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\css\\AuthStyle.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\fontawesome-iconpicker\\css\\fontawesome-iconpicker.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-iconpicker\\css\\fontawesome-iconpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\fontawesome-iconpicker\\css\\fontawesome-iconpicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-iconpicker\\css\\fontawesome-iconpicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\fontawesome-iconpicker\\js\\fontawesome-iconpicker.js",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-iconpicker\\js\\fontawesome-iconpicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\fontawesome-iconpicker\\js\\fontawesome-iconpicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\fontawesome-iconpicker\\js\\fontawesome-iconpicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-brands-400(1).ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400(1).ttf"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-brands-400(1).woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400(1).woff2"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-regular-400(1).ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400(1).ttf"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-regular-400(1).woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400(1).woff2"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-solid-900(1).ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900(1).ttf"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-solid-900(1).woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900(1).woff2"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-v4compatibility(1).ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility(1).ttf"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-v4compatibility(1).woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility(1).woff2"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ht\\Downloads\\MaryamProj\\Demo.PL\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Demo.PL.props",
+      "PackagePath": "build\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo.PL.props",
+      "PackagePath": "buildMultiTargeting\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Demo.PL.props",
+      "PackagePath": "buildTransitive\\Demo.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
